@@ -10,7 +10,7 @@ class Solution(object):
                 h+=s[i]
                 
         h=h.lower()
-        print(h)
+        
         if h==h[::-1]:
             
             return True
