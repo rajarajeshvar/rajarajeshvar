@@ -80,4 +80,9 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
