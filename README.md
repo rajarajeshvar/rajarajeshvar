@@ -87,6 +87,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -105,15 +106,18 @@
 | ------- |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +127,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
