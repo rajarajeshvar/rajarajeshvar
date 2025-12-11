@@ -93,6 +93,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
