@@ -99,6 +99,7 @@
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/rajarajeshvar/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/rajarajeshvar/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -511,6 +512,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/rajarajeshvar/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Backtracking
@@ -647,4 +649,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/rajarajeshvar/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/rajarajeshvar/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
